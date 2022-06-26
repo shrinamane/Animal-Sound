@@ -1,0 +1,16 @@
+#heading{
+    color: rgb(167, 191, 243);
+    font-size: 24px;
+} 
+body{
+    background-color: cornsilk;
+}
+#footer{
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    background-color:rgb(167, 191, 243); 
+    line-height: 4;
+    text-shadow: 5px 5px 5px rgb(79, 79, 79);
+}
